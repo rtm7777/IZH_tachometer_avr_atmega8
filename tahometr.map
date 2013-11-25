@@ -1,0 +1,16 @@
+CodeVisionAVR C Compiler V1.25.8 Standard
+(C) Copyright 1998-2007 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.com
+
+File: C:\1_my_taxometr\tahometr.c
+Global variables memory map:
+
+Variable                          Address   Size
+l_o                                                                   160h      4
+cur_line                                                                R5      1
+indication                                                           R6,R7      2
+x                                                                    R8,R9      2
+y                                                                  R10,R11      2
+num                                                                R12,R13      2
+l                                                                     164h      2
+s                                                                     166h      2
